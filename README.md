@@ -1,5 +1,5 @@
 # Discontinued
-This project has been discontinued. Meaning no new releases are in the horizon. One can possibly use this page though as a guide on how to build /e/ for begonia. Have fun!
+This project has been discontinued. Meaning no new releases are in the horizon. One can possibly use this page though as a guide on how to build /e/ for begonia or maybe other devices. Have fun!
 
 # Building /e/ os for begonia
 
