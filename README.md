@@ -1,3 +1,6 @@
+# Discontinued
+This project has been discontinued. Meaning no new releases are in the horizon. One can possibly use this page though as a guide on how to build /e/ for begonia. Have fun!
+
 # Building /e/ os for begonia
 
 1. Create your working directory, e.g. "~/building/begonia/eos" and open a terminal window on this location.
